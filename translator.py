@@ -1,4 +1,4 @@
-# Словник  (німецька - українська)
+# Словник (німецька - українська)
 translation_dict = {
     "kraftfahrzeughaftpflichtversicherung": "страхування цивільної відповідальності автотранспортного засобу",
     "rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz": "закон про передачу обов’язків нагляду за маркуванням яловичини",
