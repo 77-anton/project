@@ -18,12 +18,12 @@ def long_loading_animation():
 long_loading_animation()
 print("Вітаю в грі 'Вгадай число!'")
 
-number = random.randint(1, 1000000)
+number = random.randint(1, 1000000000)
 
 guess = 0
 
 while guess != number:
-    guess = int(input("Вгадай число від 1 до 1000000: "))
+    guess = int(input("Вгадай число від 1 до 1000000000: "))
 
     if guess < number:
         print("Загадане число більше. Спробуй ще раз!")
